@@ -3,3 +3,4 @@ handle for non controller methods(private etc)
 invoke a method using reflection
 extract the request body/header(using the spring jsson ?)
 Create the controller scenarios.
+Map request params to object -> Spring data binding - model attribute.
